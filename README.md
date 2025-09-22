@@ -1,0 +1,1 @@
+This repository contains the code for a Arduino self-balancing robot. The code runs on an Arduino Uno, which is connected to an MPU6050 IMU sensor that detects the robot's tilt angle, and runs a PID control algorithm to appropriately actuate 2 DC motors for balancing the robot.
